@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleChat</string>
+    <string name="message_hint">Say anything</string>
+	<string name="send">Send</string>
+	<string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
+
+</resources>
